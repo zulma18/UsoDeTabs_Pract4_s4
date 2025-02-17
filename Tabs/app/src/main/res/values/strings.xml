@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tabs</string>
+    <string name="quien_soy">Quién Soy</string>
+    <string name="que_estudio">Qué Estudio</string>
+    <string name="tecnologias">Tecnologías</string>
+
+    <string name="nombre">Nombre: %s Zulma Vanessa</string>
+    <string name="apellido">Apellido: %s Cruz Guevara</string>
+    <string name="carnet">Carnet: %s U20210476</string>
+    <string name="telefono">Teléfono: %s 7727-2660</string>
+</resources>
